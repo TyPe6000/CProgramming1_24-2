@@ -1,3 +1,4 @@
+//실습6 : 간접 참조 연산자와 증감 연산자
 #include <stdio.h>
 
 int main()
