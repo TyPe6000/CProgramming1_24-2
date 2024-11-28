@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\CProgramming\\Function_Variable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB912274-D6E7-45BD-9C60-F106781CF3E0}|Function_Variable_ex12\\Function_Variable_ex12.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex12\\Function_Variable_ex12_Linkage2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB912274-D6E7-45BD-9C60-F106781CF3E0}|Function_Variable_ex12\\Function_Variable_ex12.vcxproj|solutionrelative:Function_Variable_ex12\\Function_Variable_ex12_Linkage2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB912274-D6E7-45BD-9C60-F106781CF3E0}|Function_Variable_ex12\\Function_Variable_ex12.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex12\\Function_Variable_ex12_Linkage1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB912274-D6E7-45BD-9C60-F106781CF3E0}|Function_Variable_ex12\\Function_Variable_ex12.vcxproj|solutionrelative:Function_Variable_ex12\\Function_Variable_ex12_Linkage1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081A8085-DBAE-4F8F-AA54-AC1BCB011B97}|Function_Variable_ex20\\Function_Variable_ex20.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex20\\Function_Variable_ex20.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{081A8085-DBAE-4F8F-AA54-AC1BCB011B97}|Function_Variable_ex20\\Function_Variable_ex20.vcxproj|solutionrelative:Function_Variable_ex20\\Function_Variable_ex20.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A2C6A1-9688-416F-A659-539C06DD6AF5}|Function_Variable_ex19\\Function_Variable_ex19.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex19\\Function_Variable_ex19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25A2C6A1-9688-416F-A659-539C06DD6AF5}|Function_Variable_ex19\\Function_Variable_ex19.vcxproj|solutionrelative:Function_Variable_ex19\\Function_Variable_ex19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEBDD1A-A544-4C56-AFAD-E6103F4FA927}|Function_Variable_ex18\\Function_Variable_ex18.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex18\\Function_Variable_ex18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDEBDD1A-A544-4C56-AFAD-E6103F4FA927}|Function_Variable_ex18\\Function_Variable_ex18.vcxproj|solutionrelative:Function_Variable_ex18\\Function_Variable_ex18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997713A1-5D1E-4A89-81F9-29B8F7AB4914}|Function_Variable_ex17\\Function_Variable_ex17.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex17\\Function_Variable_ex17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{997713A1-5D1E-4A89-81F9-29B8F7AB4914}|Function_Variable_ex17\\Function_Variable_ex17.vcxproj|solutionrelative:Function_Variable_ex17\\Function_Variable_ex17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA31843-CB55-4333-A79E-E05273DFBB26}|Function_Variable_ex16\\Function_Variable_ex16.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex16\\Function_Variable_ex16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AA31843-CB55-4333-A79E-E05273DFBB26}|Function_Variable_ex16\\Function_Variable_ex16.vcxproj|solutionrelative:Function_Variable_ex16\\Function_Variable_ex16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975FB525-B578-4C10-A80C-501E7313CE3B}|Function_Variable_ex15\\Function_Variable_ex15.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex15\\Function_Variable_ex15_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{975FB525-B578-4C10-A80C-501E7313CE3B}|Function_Variable_ex15\\Function_Variable_ex15.vcxproj|solutionrelative:Function_Variable_ex15\\Function_Variable_ex15_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975FB525-B578-4C10-A80C-501E7313CE3B}|Function_Variable_ex15\\Function_Variable_ex15.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex15\\Function_Variable_ex15_random.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{975FB525-B578-4C10-A80C-501E7313CE3B}|Function_Variable_ex15\\Function_Variable_ex15.vcxproj|solutionrelative:Function_Variable_ex15\\Function_Variable_ex15_random.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3875A026-5C88-46F7-B9AE-D851A2A1F8B5}|Function_Variable_ex14\\Function_Variable_ex14.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex14\\Function_Variable_ex14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3875A026-5C88-46F7-B9AE-D851A2A1F8B5}|Function_Variable_ex14\\Function_Variable_ex14.vcxproj|solutionrelative:Function_Variable_ex14\\Function_Variable_ex14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAA8338-49CD-41F5-81B2-511D9765AA6E}|Function_Variable_ex13\\Function_Variable_ex13.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex13\\Function_Variable_ex11_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BAA8338-49CD-41F5-81B2-511D9765AA6E}|Function_Variable_ex13\\Function_Variable_ex13.vcxproj|solutionrelative:Function_Variable_ex13\\Function_Variable_ex11_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAA8338-49CD-41F5-81B2-511D9765AA6E}|Function_Variable_ex13\\Function_Variable_ex13.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex13\\Function_Variable_ex13_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BAA8338-49CD-41F5-81B2-511D9765AA6E}|Function_Variable_ex13\\Function_Variable_ex13.vcxproj|solutionrelative:Function_Variable_ex13\\Function_Variable_ex13_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A5383-2464-40B8-8C14-2F0B70F54428}|Function_Variable_ex11\\Function_Variable_ex11.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex11\\Function_Variable_ex11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C57A5383-2464-40B8-8C14-2F0B70F54428}|Function_Variable_ex11\\Function_Variable_ex11.vcxproj|solutionrelative:Function_Variable_ex11\\Function_Variable_ex11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3F31B0-DC70-41D3-9E9A-BEDED10AB076}|Function_Variable_ex10\\Function_Variable_ex10.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex10\\Function_Variable_ex10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E3F31B0-DC70-41D3-9E9A-BEDED10AB076}|Function_Variable_ex10\\Function_Variable_ex10.vcxproj|solutionrelative:Function_Variable_ex10\\Function_Variable_ex10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EB4F03-56B6-46CC-8A6B-5E6BF1507818}|Function_Variable_ex09\\Function_Variable_ex09.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex09\\Function_Variable_ex09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48EB4F03-56B6-46CC-8A6B-5E6BF1507818}|Function_Variable_ex09\\Function_Variable_ex09.vcxproj|solutionrelative:Function_Variable_ex09\\Function_Variable_ex09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3199D573-FF13-44D4-BBCA-CD41089852C0}|Function_Variable_ex08\\Function_Variable_ex08.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex08\\Function_Variable_ex08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3199D573-FF13-44D4-BBCA-CD41089852C0}|Function_Variable_ex08\\Function_Variable_ex08.vcxproj|solutionrelative:Function_Variable_ex08\\Function_Variable_ex08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227AB527-ED6F-4171-8DB8-9C167485DD50}|Function_Variable_ex07\\Function_Variable_ex07.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex07\\Function_Variable_ex07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{227AB527-ED6F-4171-8DB8-9C167485DD50}|Function_Variable_ex07\\Function_Variable_ex07.vcxproj|solutionrelative:Function_Variable_ex07\\Function_Variable_ex07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A019BCB3-2B72-45B0-9BB1-572BE6ACB692}|Function_Variable_ex06\\Function_Variable_ex06.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex06\\Function_Variable_ex06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A019BCB3-2B72-45B0-9BB1-572BE6ACB692}|Function_Variable_ex06\\Function_Variable_ex06.vcxproj|solutionrelative:Function_Variable_ex06\\Function_Variable_ex06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0732931B-020B-4096-AAC3-B0957678B1AF}|Function_Variable_ex05\\Function_Variable_ex05.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex05\\Function_Variable_ex05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0732931B-020B-4096-AAC3-B0957678B1AF}|Function_Variable_ex05\\Function_Variable_ex05.vcxproj|solutionrelative:Function_Variable_ex05\\Function_Variable_ex05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC9680B-EFFD-4745-9910-C31EE405D3CC}|Function_Variable_ex04\\Function_Variable_ex04.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex04\\Function_Variable_ex04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFC9680B-EFFD-4745-9910-C31EE405D3CC}|Function_Variable_ex04\\Function_Variable_ex04.vcxproj|solutionrelative:Function_Variable_ex04\\Function_Variable_ex04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A096E8F-3263-4E05-9F45-148335D8DF1E}|Function_Variable_ex03\\Function_Variable_ex03.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex03\\Function_Variable_ex03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A096E8F-3263-4E05-9F45-148335D8DF1E}|Function_Variable_ex03\\Function_Variable_ex03.vcxproj|solutionrelative:Function_Variable_ex03\\Function_Variable_ex03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0661C9D5-CB6B-4F33-9B34-89901B3B7962}|Function_Variable_ex02\\Function_Variable_ex02.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex02\\Function_Variable_ex02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0661C9D5-CB6B-4F33-9B34-89901B3B7962}|Function_Variable_ex02\\Function_Variable_ex02.vcxproj|solutionrelative:Function_Variable_ex02\\Function_Variable_ex02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA42C1A1-1E6B-4C1C-BB8A-B14C00F4B7F9}|Function_Variable_ex01\\Function_Variable_ex01.vcxproj|D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex01\\Function_Variable_ex01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA42C1A1-1E6B-4C1C-BB8A-B14C00F4B7F9}|Function_Variable_ex01\\Function_Variable_ex01.vcxproj|solutionrelative:Function_Variable_ex01\\Function_Variable_ex01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Function_Variable_ex12_Linkage1.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex12\\Function_Variable_ex12_Linkage1.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex12\\Function_Variable_ex12_Linkage1.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex12\\Function_Variable_ex12_Linkage1.cpp",
+              "RelativeToolTip": "Function_Variable_ex12\\Function_Variable_ex12_Linkage1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T06:14:32.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function_Variable_ex12_Linkage2.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex12\\Function_Variable_ex12_Linkage2.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex12\\Function_Variable_ex12_Linkage2.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex12\\Function_Variable_ex12_Linkage2.cpp",
+              "RelativeToolTip": "Function_Variable_ex12\\Function_Variable_ex12_Linkage2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T06:18:47.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Function_Variable_ex20.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex20\\Function_Variable_ex20.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex20\\Function_Variable_ex20.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex20\\Function_Variable_ex20.cpp",
+              "RelativeToolTip": "Function_Variable_ex20\\Function_Variable_ex20.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T07:12:10.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Function_Variable_ex19.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex19\\Function_Variable_ex19.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex19\\Function_Variable_ex19.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex19\\Function_Variable_ex19.cpp",
+              "RelativeToolTip": "Function_Variable_ex19\\Function_Variable_ex19.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T07:05:57.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Function_Variable_ex18.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex18\\Function_Variable_ex18.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex18\\Function_Variable_ex18.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex18\\Function_Variable_ex18.cpp",
+              "RelativeToolTip": "Function_Variable_ex18\\Function_Variable_ex18.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T06:59:42.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Function_Variable_ex17.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex17\\Function_Variable_ex17.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex17\\Function_Variable_ex17.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex17\\Function_Variable_ex17.cpp",
+              "RelativeToolTip": "Function_Variable_ex17\\Function_Variable_ex17.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T06:54:23.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Function_Variable_ex16.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex16\\Function_Variable_ex16.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex16\\Function_Variable_ex16.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex16\\Function_Variable_ex16.cpp",
+              "RelativeToolTip": "Function_Variable_ex16\\Function_Variable_ex16.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T06:43:39.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Function_Variable_ex15_main.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex15\\Function_Variable_ex15_main.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex15\\Function_Variable_ex15_main.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex15\\Function_Variable_ex15_main.cpp",
+              "RelativeToolTip": "Function_Variable_ex15\\Function_Variable_ex15_main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T06:32:24.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Function_Variable_ex15_random.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex15\\Function_Variable_ex15_random.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex15\\Function_Variable_ex15_random.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex15\\Function_Variable_ex15_random.cpp",
+              "RelativeToolTip": "Function_Variable_ex15\\Function_Variable_ex15_random.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T06:35:20.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Function_Variable_ex14.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex14\\Function_Variable_ex14.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex14\\Function_Variable_ex14.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex14\\Function_Variable_ex14.cpp",
+              "RelativeToolTip": "Function_Variable_ex14\\Function_Variable_ex14.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T06:29:10.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Function_Variable_ex13_sub.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex13\\Function_Variable_ex13_sub.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex13\\Function_Variable_ex13_sub.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex13\\Function_Variable_ex13_sub.cpp",
+              "RelativeToolTip": "Function_Variable_ex13\\Function_Variable_ex13_sub.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T06:26:31.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Function_Variable_ex11_main.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex13\\Function_Variable_ex11_main.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex13\\Function_Variable_ex11_main.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex13\\Function_Variable_ex11_main.cpp",
+              "RelativeToolTip": "Function_Variable_ex13\\Function_Variable_ex11_main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T06:24:09.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Function_Variable_ex11.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex11\\Function_Variable_ex11.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex11\\Function_Variable_ex11.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex11\\Function_Variable_ex11.cpp",
+              "RelativeToolTip": "Function_Variable_ex11\\Function_Variable_ex11.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T06:06:22.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Function_Variable_ex10.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex10\\Function_Variable_ex10.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex10\\Function_Variable_ex10.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex10\\Function_Variable_ex10.cpp",
+              "RelativeToolTip": "Function_Variable_ex10\\Function_Variable_ex10.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T06:00:49.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Function_Variable_ex09.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex09\\Function_Variable_ex09.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex09\\Function_Variable_ex09.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex09\\Function_Variable_ex09.cpp",
+              "RelativeToolTip": "Function_Variable_ex09\\Function_Variable_ex09.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T08:46:07.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Function_Variable_ex08.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex08\\Function_Variable_ex08.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex08\\Function_Variable_ex08.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex08\\Function_Variable_ex08.cpp",
+              "RelativeToolTip": "Function_Variable_ex08\\Function_Variable_ex08.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T08:39:32.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Function_Variable_ex07.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex07\\Function_Variable_ex07.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex07\\Function_Variable_ex07.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex07\\Function_Variable_ex07.cpp",
+              "RelativeToolTip": "Function_Variable_ex07\\Function_Variable_ex07.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T08:36:54.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Function_Variable_ex06.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex06\\Function_Variable_ex06.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex06\\Function_Variable_ex06.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex06\\Function_Variable_ex06.cpp",
+              "RelativeToolTip": "Function_Variable_ex06\\Function_Variable_ex06.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T08:33:26.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Function_Variable_ex05.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex05\\Function_Variable_ex05.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex05\\Function_Variable_ex05.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex05\\Function_Variable_ex05.cpp",
+              "RelativeToolTip": "Function_Variable_ex05\\Function_Variable_ex05.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T08:31:28.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Function_Variable_ex04.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex04\\Function_Variable_ex04.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex04\\Function_Variable_ex04.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex04\\Function_Variable_ex04.cpp",
+              "RelativeToolTip": "Function_Variable_ex04\\Function_Variable_ex04.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T08:27:48.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Function_Variable_ex03.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex03\\Function_Variable_ex03.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex03\\Function_Variable_ex03.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex03\\Function_Variable_ex03.cpp",
+              "RelativeToolTip": "Function_Variable_ex03\\Function_Variable_ex03.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T08:23:58.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Function_Variable_ex02.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex02\\Function_Variable_ex02.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex02\\Function_Variable_ex02.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex02\\Function_Variable_ex02.cpp",
+              "RelativeToolTip": "Function_Variable_ex02\\Function_Variable_ex02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T08:21:40.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Function_Variable_ex01.cpp",
+              "DocumentMoniker": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex01\\Function_Variable_ex01.cpp",
+              "RelativeDocumentMoniker": "Function_Variable_ex01\\Function_Variable_ex01.cpp",
+              "ToolTip": "D:\\code\\CProgramming\\Function_Variable\\Function_Variable_ex01\\Function_Variable_ex01.cpp",
+              "RelativeToolTip": "Function_Variable_ex01\\Function_Variable_ex01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T08:16:14.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

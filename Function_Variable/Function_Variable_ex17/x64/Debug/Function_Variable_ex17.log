@@ -1,0 +1,3 @@
+﻿  Function_Variable_ex17.cpp
+D:\code\CProgramming\Function_Variable\Function_Variable_ex17\Function_Variable_ex17.cpp(25,7): warning C4101: 'f' :참조되지 않은 지역 변수입니다.
+  Function_Variable_ex17.vcxproj -> D:\code\CProgramming\Function_Variable\x64\Debug\Function_Variable_ex17.exe

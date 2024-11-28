@@ -1,0 +1,2 @@
+﻿  Function_Variable_ex02.cpp
+D:\code\CProgramming\Function_Variable\Function_Variable_ex02\Function_Variable_ex02.cpp(7,1): error C4700: 초기화되지 않은 'temp' 지역 변수를 사용했습니다.
