@@ -1,0 +1,17 @@
+﻿  Pointer2_ex03.cpp
+C:\Users\ehddn\source\repos\Pointer2\Pointer2_ex03\Pointer2_ex03.cpp(10,3): error C2440: '초기화 중': 'const char [6]'에서 'char *'(으)로 변환할 수 없습니다.
+      C:\Users\ehddn\source\repos\Pointer2\Pointer2_ex03\Pointer2_ex03.cpp(10,3):
+      문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
+C:\Users\ehddn\source\repos\Pointer2\Pointer2_ex03\Pointer2_ex03.cpp(11,3): error C2440: '초기화 중': 'const char [10]'에서 'char *'(으)로 변환할 수 없습니다.
+      C:\Users\ehddn\source\repos\Pointer2\Pointer2_ex03\Pointer2_ex03.cpp(11,3):
+      문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
+C:\Users\ehddn\source\repos\Pointer2\Pointer2_ex03\Pointer2_ex03.cpp(12,3): error C2440: '초기화 중': 'const char [7]'에서 'char *'(으)로 변환할 수 없습니다.
+      C:\Users\ehddn\source\repos\Pointer2\Pointer2_ex03\Pointer2_ex03.cpp(12,3):
+      문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
+C:\Users\ehddn\source\repos\Pointer2\Pointer2_ex03\Pointer2_ex03.cpp(13,3): error C2440: '초기화 중': 'const char [6]'에서 'char *'(으)로 변환할 수 없습니다.
+      C:\Users\ehddn\source\repos\Pointer2\Pointer2_ex03\Pointer2_ex03.cpp(13,3):
+      문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
