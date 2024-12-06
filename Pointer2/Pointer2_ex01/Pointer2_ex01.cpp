@@ -1,5 +1,5 @@
 /*
-p.5 ÀÌÁß Æ÷ÀÎÅÍ
+p.5 ì´ì¤‘ í¬ì¸í„°
 */
 
 #include <stdio.h>
@@ -8,7 +8,7 @@ int main(void)
 {
     int i = 100;
     int* p = &i;
-	int** q = &p;   // ÀÌÁß Æ÷ÀÎÅÍ
+	int** q = &p;   // ì´ì¤‘ í¬ì¸í„°
 
     *p = 200;
     printf("i=%d\n", i);
